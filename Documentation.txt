@@ -1,0 +1,4 @@
+Description:
+	I have implemented the append function using the vector string and pushing back
+the string needed to be appended. Also the length and return character at specific index.
+Print function for printing the string.
